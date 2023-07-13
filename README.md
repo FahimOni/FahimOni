@@ -3,7 +3,7 @@
      width="300" 
      height="350" />
                  
-<a href="https://twitter.com/iamraufu" rel="nofollow"><img src="https://camo.githubusercontent.com/5eeb61c73a8391daf44cb615063192589f755861216f3062228797f80ca253d6/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f3130303f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="Twitter Follow" data-canonical-src="https://img.shields.io/twitter/follow/100?label=Followers&amp;style=social" style="max-width: 100%;"></a>
+
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c09cf00b47a9b8eb07fbdb7dd0e8df75adaffb59b6371439d5b8bf498b3c5245/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69616d7261756675"><img src="https://camo.githubusercontent.com/c09cf00b47a9b8eb07fbdb7dd0e8df75adaffb59b6371439d5b8bf498b3c5245/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69616d7261756675" data-canonical-src="https://komarev.com/ghpvc/?username=iamraufu" style="max-width: 100%;"></a></p>
 
 
